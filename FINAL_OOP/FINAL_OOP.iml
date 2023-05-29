@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/activation-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/slf4j-simple-2.0.7.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/slf4j-api-2.0.7.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/slf4j-api-1.6.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/simple-java-mail-1.8.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/mail-1.4.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/jnativehook-2.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/docs/javadocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/demo" />
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/demo/client" />
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/demo/logging" />
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/demo/outlook" />
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/demo/servlet" />
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/demo/webapp/src/classes" />
+          <root url="jar://$USER_HOME$/Desktop/javamail1_4_7.zip!/javamail-1.4.7/demo/webapp/src/taglib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
